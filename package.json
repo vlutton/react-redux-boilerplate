@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlutton/react-redux-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlutton/react-redux-boilerplate/issues"
+  },
+  "homepage": "https://github.com/vlutton/react-redux-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}
